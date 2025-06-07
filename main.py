@@ -1,4 +1,4 @@
 def print_hi(name):
-    print(f'GAY')
+    print(f'Rasul')
 def tt(name):
-    print("Almat")
+    print("Alex")
